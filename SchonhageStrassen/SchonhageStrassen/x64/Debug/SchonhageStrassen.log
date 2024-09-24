@@ -1,0 +1,3 @@
+﻿  BetterMultiplication.cpp
+D:\C# projects\C++Practise\SchonhageStrassen\SchonhageStrassen\BetterMultiplication.h(15,2): warning C4091: 'static ': ignored on left of 'BetterMultiplication' when no variable is declared
+  SchonhageStrassen.vcxproj -> D:\C# projects\C++Practise\SchonhageStrassen\x64\Debug\SchonhageStrassen.exe
